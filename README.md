@@ -6,6 +6,8 @@
 
 🏆 Portfolio: [Access website](https://paulgabr.github.io/portifolio/)
 
+🔗 Linkedin: [Access profile](https://www.linkedin.com/in/paulgab/)
+
 #### 🧠 My knowledge and experience:
 - Languages
   - Javascript
