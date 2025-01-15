@@ -16,8 +16,9 @@
   - PHP
 
 - Frameworks
-  - Node.js
   - React.js
+  - Next.js
+  - Node.js
   - Ember.js
   - Flask
   - Django
@@ -26,6 +27,5 @@
 - Tools and techniques
   - Docker
   - PostgreSQL
-  - SQLAlchemy
-  - Vitest
+  - MySql
   - Web Components
