@@ -23,9 +23,14 @@
   - Flask
   - Django
   - Slim
+  - AngularJS
 
 - Tools and techniques
   - Docker
   - PostgreSQL
   - MySql
   - Web Components
+  - Figma
+  - Jira
+  - AWS
+  - Git
