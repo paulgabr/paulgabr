@@ -4,7 +4,7 @@
 
 🖥️ Software Engineer - Full Stack Developer
 
-🏆 Portfolio: [Access website](https://paulgabr.github.io/portifolio/)
+🏆 Portfolio: [Access website](https://paulgabr.github.io/portfolio)
 
 🔗 Linkedin: [Access profile](https://www.linkedin.com/in/paulgab/)
 
